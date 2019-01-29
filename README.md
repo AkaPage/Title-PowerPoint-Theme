@@ -16,7 +16,7 @@ Distributed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/
 ### Legal
 
 Copyright (c) 2019 [Seia-Soto](https://github.com/Seia-Soto) All Rights Reserved.
-Contributions and any changes to this theme is allowed without changing any metadata of file or removed visible copyright holder's name.
+Contributions and any changes to this theme is allowed without changing any metadata of file or removing visible copyright holder's name only.
 
 Originally template doesn't have any visible copyright notice, so you need to add it yourself. Why I removed copyright notice from PowerPoint template is for your presentation. Just add copyright for any visible position of your complete presentation, because that will make better performance about your presentation.
 
